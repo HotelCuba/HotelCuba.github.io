@@ -9,4 +9,4 @@ published: true
 This error appears when I set the eclipse to practice java development.
 You can consider this way to solve the problem.
 
-<img src="./_resources/_images/release23-error-message">
+![release23ErrorMessage](./_resources/_images/release23-error-message.png)
